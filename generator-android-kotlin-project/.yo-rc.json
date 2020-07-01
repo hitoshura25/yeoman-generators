@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Vinayak Menon",
+      "authorEmail": "vviswana@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
